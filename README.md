@@ -1,10 +1,7 @@
 # Web Based Paint Application
 ## This project is clone of Microsoft paint but a web version.
 
----
-put our paint pict
-
----
+![image](https://user-images.githubusercontent.com/96320048/216332646-9b73180e-9668-4f86-9677-a272a601a35e.png)
 Assignment #3: Web Based Paint (CSED25 Alexandria University)
 
 ## Project Objectives
@@ -40,14 +37,7 @@ A web Application that has all the features of the paint windows application bes
 - Adapter Design Pattern
 
 ## The Demo
+https://user-images.githubusercontent.com/96320048/216334619-dea94597-0062-4fd0-a434-ce11c59deca2.mp4
 
 ## The Report
 [paint report.pdf](https://github.com/OmarTammam25/Paint/files/10568633/paint.report.pdf)
-
-
-
-
-
-
-
-
